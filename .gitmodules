@@ -1,0 +1,6 @@
+[submodule "pilot-lms-server"]
+	path = pilot-lms-server
+	url = https://github.com/TejasAmbhore/pilot-lms-server.git
+[submodule "pilot-frontend"]
+	path = pilot-frontend
+	url = https://github.com/Cmbyn01/pilot-frontend.git
